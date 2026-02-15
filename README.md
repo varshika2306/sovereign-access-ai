@@ -40,9 +40,6 @@ Sovereign Access AI is a voice-first, multilingual AI platform that:
 
 Refer to `/docs/architecture-diagram.png`
 
-## Deployment
-
-See `/deployment/deployment-guide.md`
 
 ## Future Scope
 
